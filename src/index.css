@@ -1,0 +1,21 @@
+body {
+  padding: 50px;
+  background-color: #ADFF2F;
+  font-family: sans-serif;
+}
+.Intro {
+  padding: 10px;
+  font-size: 24px;
+  margin: 8px;
+  margin-right: 0px;
+  color: 	#4B0082;
+  border: 2px solid #0066FF;
+}
+.Intro:hover {
+  background-color: #FFFF00;
+  border: 2px solid #FFFF00;
+}
+#container {
+  display: flex;
+  justify-content: center;
+}
